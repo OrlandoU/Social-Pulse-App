@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Social-Pulse/static/css/main.0d1986c4.css",
+    "main.js": "/Social-Pulse/static/js/main.51c88a77.js",
+    "index.html": "/Social-Pulse/index.html",
+    "main.0d1986c4.css.map": "/Social-Pulse/static/css/main.0d1986c4.css.map",
+    "main.51c88a77.js.map": "/Social-Pulse/static/js/main.51c88a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d1986c4.css",
+    "static/js/main.51c88a77.js"
+  ]
+}
